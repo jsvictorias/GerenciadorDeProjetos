@@ -1,0 +1,22 @@
+.body {
+    text-align: center;
+}
+.title {
+    margin-top: 2px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.title span {
+    font-weight: 100;
+}
