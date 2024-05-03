@@ -1,13 +1,25 @@
 .bloch {
     width: 60%;
-    height: 30%;
+    height: 70%;
     background-color: white;
-    margin-top: -36%;
     border-radius: 15px;
 }
+.title-bloch {
+    padding: 5% 5%;
+    font-size: 20px;
+    text-decoration: underline;
+}
 .main {
-    width: 100px;
-    height: 100px;
-    background-color: white;
-    
+    display: flex;
+    justify-content: space-between;
+}
+.main-container {
+    display: flex;
+    height: 40vh;
+}
+.main h4 {
+    margin: 0% 6% 0% 7%;
+}
+.toglle {
+    padding: 5%;
 }
