@@ -21,5 +21,9 @@
     margin: 0% 6% 0% 7%;
 }
 .toglle {
-    padding: 5%;
+    padding-top: 3%;
+    padding-left: 9%;
+}
+.list-group-item {
+    cursor: pointer;
 }
