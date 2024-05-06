@@ -9,10 +9,14 @@ const Block = () => {
             <div className="main-cointainer">
                 <div className="main">
                     <h4>PARA COMEÇAR</h4>
+                    <TPlist />
                     <h4>FAZENDO</h4>
+                    <TPlist />
                     <h4>FINALIZADO</h4>
+                    <TPlist />
                 </div>
-                <TPlist />
+                
+                
             </div>
         </div>
     )
